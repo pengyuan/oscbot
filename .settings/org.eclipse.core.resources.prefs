@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//oscbot/software_spider/items.py=utf-8
+encoding//oscbot/software_spider/pipelines.py=utf-8
+encoding//oscbot/software_spider/settings.py=utf-8
+encoding//oscbot/software_spider/spiders/spider.py=utf-8
